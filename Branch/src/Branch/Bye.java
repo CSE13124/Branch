@@ -6,6 +6,9 @@ public class Bye {
 		System.out.println("HEY DA");
 		System.out.println("HEY DA");
 		System.out.println("HEY DA");
+		System.out.println("HEY DA");
+		System.out.println("HEY DA");
+		
 	}
 
 }
